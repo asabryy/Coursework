@@ -1,0 +1,11 @@
+public class RedBubble extends Bubble {
+  
+  public RedBubble(double x, double y, double speedX, double speedY, double radius, int health){
+    super(x , y, radius);
+    super.setSpeedX(speedX);
+    super.setSpeedY(speedY);
+    super.setHealth(health);
+  }
+}
+  
+  
