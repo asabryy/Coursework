@@ -1,0 +1,5 @@
+Q1:
+
+(1 - epsilon) * P(a greedy | greedy s) + epsilon * P(a greedy | random s)
+
+ = 1 - ((n - 1)/n) * epsilon 
